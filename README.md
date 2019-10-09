@@ -1,4 +1,4 @@
 # Pygame
 this is pygame by sandeep
-this is py
-Pyhton Game
+this is pygame
+Pyhton Game 
